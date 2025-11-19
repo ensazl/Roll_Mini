@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Roll_Min_R01.PcbDoc]
+   Generated File[Pick Place for Roll_Min_R01.txt]
+   Generated File[Pick Place for Roll_Min_R01.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:11:43 On 19.11.2025

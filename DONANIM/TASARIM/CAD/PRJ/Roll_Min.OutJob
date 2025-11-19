@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=XVACU.OutJob
+Name=Roll_Min.OutJob
 Description=
 TargetOutputMedium=Gerber&Fabrication
 VariantName=[No Variations]
@@ -52,7 +52,7 @@ OutputEnabled1_OutputMedium6=0
 OutputEnabled1_OutputMedium7=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908290~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\ensar\OneDrive\Masaüstü\VACU\Xvacu-Trunk\DONANIM\TASARIM\CAD\PCB\P_XVACU_R01.PcbDoc
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908290~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\ensar\OneDrive\Masaüstü\VACU\Roll_Min\Roll_Min-Trunk\DONANIM\TASARIM\CAD\PCB\Roll_Min_R01.PcbDoc
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
@@ -171,7 +171,7 @@ Configuration5_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 OutputType6=Design Rules Check
 OutputName6=Design Rules Check
 OutputCategory6=Validation
-OutputDocumentPath6=Roll_Min_R00.PcbDoc
+OutputDocumentPath6=Roll_Min_R01.PcbDoc
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -385,9 +385,9 @@ OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [PublishSettings]
-OutputFilePath1=C:\Users\ensar.azili\Desktop\Xvacu-Trunk\DONANIM\TASARIM\CAD\PRJ\Project Outputs for XVACU_R01\
+OutputFilePath1=C:\Users\ensar\OneDrive\Masaüstü\VACU\Roll_Min\Roll_Min-Trunk\DONANIM\TASARIM\CAD\PRJ\Project Outputs for Roll_Min_R01\
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for Roll_Min_R00
+OutputBasePath1=Project Outputs for Roll_Min_R01
 OutputPathMedia1=
 OutputPathMediaValue1=
 OutputPathOutputer1=[Output Type]
@@ -400,7 +400,7 @@ OutputFileNameSpecial1=
 OpenOutput1=0
 OutputFilePath2=C:\Users\ensar\OneDrive\Masaüstü\VACU\VACU_PRJ\trunk\TASARIM\CAD\PRJ\Project Outputs for XVACU\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Roll_Min_R00
+OutputBasePath2=Project Outputs for Roll_Min_R01
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -413,7 +413,7 @@ OutputFileNameSpecial2=
 OpenOutput2=0
 OutputFilePath3=C:\Users\ensar\OneDrive\Masaüstü\VACU\VACU_PRJ\trunk\TASARIM\CAD\PRJ\Project Outputs for XVACU\ASSY_PN.PDF
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Roll_Min_R00
+OutputBasePath3=Project Outputs for Roll_Min_R01
 OutputPathMedia3=[Media Type]
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Custom]
@@ -440,7 +440,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\ensar\OneDrive\Masaüstü\VACU\VACU_PRJ\trunk\TASARIM\CAD\PRJ\Project Outputs for XVACU\PDF\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Roll_Min_R00
+OutputBasePath4=Project Outputs for Roll_Min_R01
 OutputPathMedia4=[Media Type]
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -467,7 +467,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\fatih.celik\Desktop\SVN\K+\Project Outputs for K+\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Roll_Min_R00
+OutputBasePath5=Project Outputs for Roll_Min_R01
 OutputPathMedia5=
 OutputPathMediaValue5=
 OutputPathOutputer5=[Output Type]
@@ -507,7 +507,7 @@ PDFACompliance6=Disabled
 PDFVersion6=Default
 OutputFilePath7=C:\Users\ensar\OneDrive\Masaüstü\VACU\VACU_PRJ\trunk\TASARIM\CAD\PRJ\Project Outputs for XVACU\Documention.PDF
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for Roll_Min_R00
+OutputBasePath7=Project Outputs for Roll_Min_R01
 OutputPathMedia7=[Media Type]
 OutputPathMediaValue7=
 OutputPathOutputer7=[Output Type]
@@ -534,7 +534,7 @@ PDFACompliance7=Disabled
 PDFVersion7=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=C:\Users\ensar.azili\Desktop\Xvacu-Trunk\DONANIM\TASARIM\CAD\PRJ\Project Outputs for XVACU_R01\
+RelativeOutputPath1=C:\Users\ensar\OneDrive\Masaüstü\VACU\Roll_Min\Roll_Min-Trunk\DONANIM\TASARIM\CAD\PRJ\Project Outputs for Roll_Min_R01\
 OpenOutputs1=0
 AddToProject1=0
 TimestampFolder1=0

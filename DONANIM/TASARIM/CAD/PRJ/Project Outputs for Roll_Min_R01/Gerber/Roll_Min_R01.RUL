@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\ensar\OneDrive\Masaüstü\VACU\Roll_Min\Roll_Min-Trunk\DONANIM\TASARIM\CAD\PCB\Roll_Min_R01.PcbDoc
+RuleKind=Clearance|RuleName=polygon|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=POLY_GND|Scope=Board|Minimum=39.37
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=13.78
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Genel|Scope=Board|Minimum=9.84
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
